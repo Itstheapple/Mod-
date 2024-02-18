@@ -1,8 +1,8 @@
-package com.example.commands
+package com.github.itstheapple.mod.commands
 
-import com.example.ExampleMod
-import com.example.commands.SimpleCommand.ProcessCommandRunnable
-import com.example.utils.ChatUtils
+import com.github.itstheapple.mod.ExampleMod
+import com.github.itstheapple.mod.commands.SimpleCommand.ProcessCommandRunnable
+import com.github.itstheapple.mod.utils.ChatUtils
 import net.minecraft.command.ICommandSender
 import net.minecraft.util.BlockPos
 import net.minecraftforge.client.ClientCommandHandler
